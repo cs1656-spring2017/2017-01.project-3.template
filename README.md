@@ -41,7 +41,7 @@ Your program should read input from the following CSV files:
 * `all_cast.csv`, containing data for the Cast table,  
 * `all_directors.csv`, containing data for the Directors table,  
 * `all_movie_dir.csv`, containing data for the Movie_Director table, and  
-* `all_movies.csv`, containing data for the Movies table.
+* `all_movies.csv`, containing data for the Movies table.  
 All the data should be inserted into the appropriate tables into the `cs1656.sqlite` database. Sample insert statements have been provided in the `moviepro.py` script, but you are not restricted to doing the insertions in exactly the same way.
 
 Samples of all these files are provided as part of this repository.
